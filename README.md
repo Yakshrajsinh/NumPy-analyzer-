@@ -37,6 +37,3 @@ This project is an interactive Python-based NumPy utility that allows users to c
 - Split into parts or custom indices
 
 ---
-
-## 📂 Project Structure
-
